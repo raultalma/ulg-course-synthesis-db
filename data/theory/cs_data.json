@@ -7,9 +7,9 @@
       "title": "Ex 1",
       "exNumber": 1,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex1-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex1-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex1-sol.png"
+        "assets/images/cs/beta-lang/ex1-sol.png"
       ]
     },
     {
@@ -19,9 +19,9 @@
       "exNumber": 2,
       "hasPriority": false,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex2-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex2-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex2-sol.png"
+        "assets/images/cs/beta-lang/ex2-sol.png"
       ]
     },
     {
@@ -31,9 +31,9 @@
       "exNumber": 3,
       "hasPriority": true,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex3-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex3-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex3-sol.png"
+        "assets/images/cs/beta-lang/ex3-sol.png"
       ]
     },
     {
@@ -43,10 +43,10 @@
       "exNumber": 4,
       "hasPriority": true,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex4-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex4-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex4-sol-0.png",
-        "/images/cs/beta-lang/ex4-sol-1.png"
+        "assets/images/cs/beta-lang/ex4-sol-0.png",
+        "assets/images/cs/beta-lang/ex4-sol-1.png"
       ]
     },
     {
@@ -56,10 +56,10 @@
       "exNumber": 5,
       "hasPriority": false,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex5-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex5-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex5-sol-0.png",
-        "/images/cs/beta-lang/ex5-sol-1.png"
+        "assets/images/cs/beta-lang/ex5-sol-0.png",
+        "assets/images/cs/beta-lang/ex5-sol-1.png"
       ]
     },
     {
@@ -69,10 +69,10 @@
       "exNumber": 6,
       "hasPriority": true,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex6-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex6-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex6-sol-0.png",
-        "/images/cs/beta-lang/ex6-sol-1.png"
+        "assets/images/cs/beta-lang/ex6-sol-0.png",
+        "assets/images/cs/beta-lang/ex6-sol-1.png"
       ]
     },
     {
@@ -82,10 +82,10 @@
       "exNumber": 7,
       "hasPriority": false,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/ex7-q.png",
+      "questionPath": "assets/images/cs/beta-lang/ex7-q.png",
       "solutions": [
-        "/images/cs/beta-lang/ex7-sol-0.png",
-        "/images/cs/beta-lang/ex7-sol-1.png"
+        "assets/images/cs/beta-lang/ex7-sol-0.png",
+        "assets/images/cs/beta-lang/ex7-sol-1.png"
       ]
     },
     {
@@ -95,7 +95,7 @@
       "exNumber": 0,
       "hasPriority": false,
       "isMain": true,
-      "questionPath": "/images/cs/beta-lang/main-tp.png",
+      "questionPath": "assets/images/cs/beta-lang/main-tp.png",
       "solutions": []
     },
     {
@@ -105,11 +105,11 @@
       "exNumber": 5,
       "hasPriority": true,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/exam-2023-q5-q.png",
+      "questionPath": "assets/images/cs/beta-lang/exam-2023-q5-q.png",
       "solutions": [
-        "/images/cs/beta-lang/exam-2023-q5-sol-0.png",
-        "/images/cs/beta-lang/exam-2023-q5-sol-1.png",
-        "/images/cs/beta-lang/exam-2023-q5-sol-2.png"
+        "assets/images/cs/beta-lang/exam-2023-q5-sol-0.png",
+        "assets/images/cs/beta-lang/exam-2023-q5-sol-1.png",
+        "assets/images/cs/beta-lang/exam-2023-q5-sol-2.png"
       ]
     },
     {
@@ -119,11 +119,11 @@
       "exNumber": 7,
       "hasPriority": true,
       "isMain": false,
-      "questionPath": "/images/cs/beta-lang/exam-2020-q7-q.png",
+      "questionPath": "assets/images/cs/beta-lang/exam-2020-q7-q.png",
       "solutions": [
-        "/images/cs/beta-lang/exam-2020-q7-sol-0.png",
-        "/images/cs/beta-lang/exam-2020-q7-sol-1.png",
-        "/images/cs/beta-lang/exam-2020-q7-sol-2.png"
+        "assets/images/cs/beta-lang/exam-2020-q7-sol-0.png",
+        "assets/images/cs/beta-lang/exam-2020-q7-sol-1.png",
+        "assets/images/cs/beta-lang/exam-2020-q7-sol-2.png"
       ]
     }
   ],
@@ -134,7 +134,7 @@
       "isWithBus": true,
       "schemaType": "schema",
       "name": "ALU (Schema) - B machine with bus",
-      "questionPath": "/images/cs/schemas/alu-bus-schema.png"
+      "questionPath": "assets/images/cs/schemas/alu-bus-schema.png"
     },
     {
       "id": 1,
@@ -142,7 +142,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "ALU - B machine with bus",
-      "questionPath": "/images/cs/schemas/alu-bus.png"
+      "questionPath": "assets/images/cs/schemas/alu-bus.png"
     },
     {
       "id": 2,
@@ -150,7 +150,7 @@
       "isWithBus": true,
       "schemaType": "symbol",
       "name": "ALU (Symbol) - B machine with bus",
-      "questionPath": "/images/cs/schemas/alu-bus-symbol.png"
+      "questionPath": "assets/images/cs/schemas/alu-bus-symbol.png"
     },
     {
       "id": 3,
@@ -158,7 +158,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "Control unit - B machine with bus",
-      "questionPath": "/images/cs/schemas/control-unit.png"
+      "questionPath": "assets/images/cs/schemas/control-unit.png"
     },
     {
       "id": 4,
@@ -166,7 +166,7 @@
       "isWithBus": true,
       "schemaType": "schema",
       "name": "Control unit (Schema) - B machine with bus",
-      "questionPath": "/images/cs/schemas/control-unit-schema.png"
+      "questionPath": "assets/images/cs/schemas/control-unit-schema.png"
     },
     {
       "id": 5,
@@ -174,7 +174,7 @@
       "isWithBus": true,
       "schemaType": "symbol",
       "name": "Control unit (Symbol) - B machine with bus",
-      "questionPath": "/images/cs/schemas/control-unit-symbol.png"
+      "questionPath": "assets/images/cs/schemas/control-unit-symbol.png"
     },
     {
       "id": 6,
@@ -182,7 +182,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "DRAM - B machine with bus",
-      "questionPath": "/images/cs/schemas/dram.png"
+      "questionPath": "assets/images/cs/schemas/dram.png"
     },
     {
       "id": 7,
@@ -190,7 +190,7 @@
       "isWithBus": true,
       "schemaType": "schema",
       "name": "DRAM (Schema) - B machine with bus",
-      "questionPath": "/images/cs/schemas/dram-schema.png"
+      "questionPath": "assets/images/cs/schemas/dram-schema.png"
     },
     {
       "id": 8,
@@ -198,7 +198,7 @@
       "isWithBus": true,
       "schemaType": "symbol",
       "name": "DRAM (Symbol) - B machine with bus",
-      "questionPath": "/images/cs/schemas/dram-symbol.png"
+      "questionPath": "assets/images/cs/schemas/dram-symbol.png"
     },
     {
       "id": 9,
@@ -206,7 +206,7 @@
       "isWithBus": false,
       "schemaType": "full",
       "name": "Full B machine",
-      "questionPath": "/images/cs/schemas/full-b-machine.png"
+      "questionPath": "assets/images/cs/schemas/full-b-machine.png"
     },
     {
       "id": 10,
@@ -214,7 +214,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "Full B machine with bus architecture",
-      "questionPath": "/images/cs/schemas/full-b-machine-with-bus.png"
+      "questionPath": "assets/images/cs/schemas/full-b-machine-with-bus.png"
     },
     {
       "id": 11,
@@ -222,7 +222,7 @@
       "isWithBus": false,
       "schemaType": "full",
       "name": "Full B machine with flags",
-      "questionPath": "/images/cs/schemas/full-b-machine-with-flags.png"
+      "questionPath": "assets/images/cs/schemas/full-b-machine-with-flags.png"
     },
     {
       "id": 12,
@@ -230,7 +230,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "PC - B machine with bus",
-      "questionPath": "/images/cs/schemas/pc-bus.png"
+      "questionPath": "assets/images/cs/schemas/pc-bus.png"
     },
     {
       "id": 13,
@@ -238,7 +238,7 @@
       "isWithBus": true,
       "schemaType": "schema",
       "name": "PC (Schema) - B machine with bus",
-      "questionPath": "/images/cs/schemas/pc-bus-schema.png"
+      "questionPath": "assets/images/cs/schemas/pc-bus-schema.png"
     },
     {
       "id": 14,
@@ -246,7 +246,7 @@
       "isWithBus": true,
       "schemaType": "symbol",
       "name": "PC (Symbol) - B machine with bus",
-      "questionPath": "/images/cs/schemas/pc-bus-symbol.png"
+      "questionPath": "assets/images/cs/schemas/pc-bus-symbol.png"
     },
     {
       "id": 15,
@@ -254,7 +254,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "Register file - B machine without bus",
-      "questionPath": "/images/cs/schemas/register-file.png"
+      "questionPath": "assets/images/cs/schemas/register-file.png"
     },
     {
       "id": 16,
@@ -262,7 +262,7 @@
       "isWithBus": true,
       "schemaType": "schema",
       "name": "Register file (Schema) - B machine without bus",
-      "questionPath": "/images/cs/schemas/register-file-schema.png"
+      "questionPath": "assets/images/cs/schemas/register-file-schema.png"
     },
     {
       "id": 17,
@@ -270,7 +270,7 @@
       "isWithBus": true,
       "schemaType": "symbol",
       "name": "Register file (Symbol) - B machine without bus",
-      "questionPath": "/images/cs/schemas/register-file-symbol.png"
+      "questionPath": "assets/images/cs/schemas/register-file-symbol.png"
     },
     {
       "id": 18,
@@ -278,7 +278,7 @@
       "isWithBus": false,
       "schemaType": "flags",
       "name": "Flags - B machine with bus",
-      "questionPath": "/images/cs/schemas/simple-b-flags.png"
+      "questionPath": "assets/images/cs/schemas/simple-b-flags.png"
     },
     {
       "id": 19,
@@ -286,7 +286,7 @@
       "isWithBus": true,
       "schemaType": "full",
       "name": "SRAM - B machine with bus",
-      "questionPath": "/images/cs/schemas/sram.png"
+      "questionPath": "assets/images/cs/schemas/sram.png"
     },
     {
       "id": 20,
@@ -294,7 +294,7 @@
       "isWithBus": true,
       "schemaType": "schema",
       "name": "SRAM (Schema) - B machine with bus",
-      "questionPath": "/images/cs/schemas/sram-schema.png"
+      "questionPath": "assets/images/cs/schemas/sram-schema.png"
     },
     {
       "id": 21,
@@ -302,7 +302,7 @@
       "isWithBus": true,
       "schemaType": "symbol",
       "name": "SRAM (Symbol) - B machine with bus",
-      "questionPath": "/images/cs/schemas/sram-symbol.png"
+      "questionPath": "assets/images/cs/schemas/sram-symbol.png"
     }
   ],
   "microcodes": [
@@ -313,8 +313,8 @@
       "exNumber": 1,
       "hasPriority": false,
       "tpNumber": 1,
-      "questionPath": "/images/cs/microcode/tp1-ex1-q.png",
-      "solutionPath": "/images/cs/microcode/tp1-ex1-sol.png"
+      "questionPath": "assets/images/cs/microcode/tp1-ex1-q.png",
+      "solutionPath": "assets/images/cs/microcode/tp1-ex1-sol.png"
     },
     {
       "id": 1,
@@ -323,8 +323,8 @@
       "exNumber": 2,
       "hasPriority": true,
       "tpNumber": 1,
-      "questionPath": "/images/cs/microcode/tp1-ex2-q.png",
-      "solutionPath": "/images/cs/microcode/tp1-ex2-sol.png"
+      "questionPath": "assets/images/cs/microcode/tp1-ex2-q.png",
+      "solutionPath": "assets/images/cs/microcode/tp1-ex2-sol.png"
     },
     {
       "id": 2,
@@ -333,8 +333,8 @@
       "exNumber": 3,
       "hasPriority": false,
       "tpNumber": 1,
-      "questionPath": "/images/cs/microcode/tp1-ex3-q.png",
-      "solutionPath": "/images/cs/microcode/tp1-ex3-sol.png"
+      "questionPath": "assets/images/cs/microcode/tp1-ex3-q.png",
+      "solutionPath": "assets/images/cs/microcode/tp1-ex3-sol.png"
     },
     {
       "id": 3,
@@ -344,8 +344,8 @@
       "note": "Implement a new function in the ALU: \nThe 0 entry of the MUX will be connected to an OR, which is connected to a comparison box \nchecking if the A entry is >= 0 and returns 1 if true => returns 0 if  0 ==> Flags will be 1",
       "hasPriority": true,
       "tpNumber": 1,
-      "questionPath": "/images/cs/microcode/tp1-ex4-q.png",
-      "solutionPath": "/images/cs/microcode/tp1-ex4-sol.png"
+      "questionPath": "assets/images/cs/microcode/tp1-ex4-q.png",
+      "solutionPath": "assets/images/cs/microcode/tp1-ex4-sol.png"
     },
     {
       "id": 4,
@@ -355,8 +355,8 @@
       "note": "X%2 == X & 1 (we check if odd or even)",
       "hasPriority": true,
       "tpNumber": 2,
-      "questionPath": "/images/cs/microcode/tp2-ex1-q.png",
-      "solutionPath": "/images/cs/microcode/tp2-ex1-sol.png"
+      "questionPath": "assets/images/cs/microcode/tp2-ex1-q.png",
+      "solutionPath": "assets/images/cs/microcode/tp2-ex1-sol.png"
     },
     {
       "id": 5,
@@ -365,8 +365,8 @@
       "exNumber": 2,
       "hasPriority": true,
       "tpNumber": 2,
-      "questionPath": "/images/cs/microcode/tp2-ex2-q.png",
-      "solutionPath": "/images/cs/microcode/tp2-ex2-sol.png"
+      "questionPath": "assets/images/cs/microcode/tp2-ex2-q.png",
+      "solutionPath": "assets/images/cs/microcode/tp2-ex2-sol.png"
     },
     {
       "id": 6,
@@ -375,8 +375,8 @@
       "exNumber": 2,
       "hasPriority": true,
       "tpNumber": -1,
-      "questionPath": "/images/cs/microcode/exam-jav-2020-q2-q.png",
-      "solutionPath": "/images/cs/microcode/exam-jav-2020-q2-sol.png"
+      "questionPath": "assets/images/cs/microcode/exam-jav-2020-q2-q.png",
+      "solutionPath": "assets/images/cs/microcode/exam-jav-2020-q2-sol.png"
     },
     {
       "id": 7,
@@ -385,8 +385,8 @@
       "exNumber": 2,
       "hasPriority": true,
       "tpNumber": -1,
-      "questionPath": "/images/cs/microcode/exam-jav-2023-q2-q.png",
-      "solutionPath": "/images/cs/microcode/exam-jav-2023-q2-sol.png"
+      "questionPath": "assets/images/cs/microcode/exam-jav-2023-q2-q.png",
+      "solutionPath": "assets/images/cs/microcode/exam-jav-2023-q2-sol.png"
     }
   ]
 }
