@@ -2,7 +2,7 @@
   "chapters": [
     {
       "name": "Polynômes",
-      "chapNumber": 1,
+      "chapNumber": "1",
       "list": [
         {
           "id": 0,
@@ -284,7 +284,7 @@
     },
     {
       "name": "Espaces vectoriels",
-      "chapNumber": 2,
+      "chapNumber": "2",
       "list": [
         {
           "id": 0,
@@ -716,7 +716,7 @@
     },
     {
       "name": "Diagonalisation de matrices complexes",
-      "chapNumber": 3,
+      "chapNumber": "3",
       "list": [
         {
           "id": 0,
@@ -1051,7 +1051,7 @@
     },
     {
       "name": "Quelques outils d'analyse",
-      "chapNumber": 4,
+      "chapNumber": "4",
       "list": [
         {
           "id": 0,
