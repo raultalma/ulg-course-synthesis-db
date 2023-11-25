@@ -1,5 +1,8 @@
 {
-  "betaLangs": [
+  "chapters": [{
+    "name": "Beta language",
+    "chapNumber": "1",
+    "list": [
     {
       "id": 0,
       "hasPriority": false,
@@ -126,8 +129,11 @@
         "assets/images/cs/beta-lang/exam-2020-q7-sol-2.png"
       ]
     }
-  ],
-  "schemas": [
+  ]},
+  {
+    "name": "Schemas",
+    "chapNumber": "2",
+    "list": [
     {
       "id": 0,
       "type": "schemas",
@@ -304,8 +310,11 @@
       "name": "SRAM (Symbol) - B machine with bus",
       "questionPath": "assets/images/cs/schemas/sram-symbol.png"
     }
-  ],
-  "microcodes": [
+  ]},
+  {
+    "name": "Microcodes",
+    "chapNumber": "3",
+    "list": [
     {
       "id": 0,
       "title": "Tp 1 - ex 1",
@@ -388,5 +397,5 @@
       "questionPath": "assets/images/cs/microcode/exam-jav-2023-q2-q.png",
       "solutionPath": "assets/images/cs/microcode/exam-jav-2023-q2-sol.png"
     }
-  ]
+  ]}]
 }
