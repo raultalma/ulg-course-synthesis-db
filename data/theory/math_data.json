@@ -34,6 +34,18 @@
           "explanationPath": "assets/images/math/chap1/proposition-5.png"
         },
         {
+          "id": 2.2,
+          "exams": [],
+          "hasPriority": false,
+          "question": "Si P, Q ∈ K[X] sont tels que P · Q = 0, alors P = 0 ou Q = 0..",
+          "title": "Corollaire 1.6",
+          "type": "corollaire",
+          "explanationPath": "assets/images/math/chap1/corollaire-6.png",
+          "demonstrationPath": [
+            "assets/images/math/chap1/corollaire-6-demo.png"
+          ]
+        },
+        {
           "id": 3,
           "exams": [
             "Aout 2022",
