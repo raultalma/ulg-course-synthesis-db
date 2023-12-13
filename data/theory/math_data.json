@@ -222,7 +222,9 @@
         },
         {
           "id": 19,
-          "exams": [],
+          "exams": [
+            "Janv 2019"
+          ],
           "hasPriority": false,
           "question": "Définir la multiplicité α d'un polynome P.",
           "title": "Théorème 1.33 Multiplicité d'un polynome",
