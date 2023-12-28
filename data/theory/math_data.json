@@ -48,6 +48,7 @@
         {
           "id": 3,
           "exams": [
+            "Aout 2023",
             "Aout 2022",
             "Janv 2022",
             "Janv 2021"
@@ -111,6 +112,7 @@
         {
           "id": 9,
           "exams": [
+            "Aout 2023",
             "Janv 2019"
           ],
           "hasPriority": true,
@@ -341,6 +343,7 @@
         {
           "id": 3,
           "exams": [
+            "Aout 2023",
             "Aout 2021",
             "Sept 2019",
             "Janv 2019"
@@ -670,6 +673,7 @@
         {
           "id": 31,
           "exams": [
+            "Aout 2023",
             "Janv 2020"
           ],
           "hasPriority": true,
@@ -736,6 +740,7 @@
         {
           "id": 0,
           "exams": [
+            "Aout 2023",
             "Janv 2019"
           ],
           "hasPriority": true,
