@@ -1092,6 +1092,20 @@
           "explanationPath": "assets/images/math/chap4/def-1.png"
         },
         {
+          "id": 2,
+          "exams": [
+          ],
+          "hasPriority": false,
+          "question": "Proposition 4.2. Approximation polynomiale unique.",
+          "title": "Proposition 4.2.",
+          "type": "proposition",
+          "explanationPath": "assets/images/math/chap4/proposition-2.png",
+          "demonstrationPath": [
+            "assets/images/math/chap4/proposition-2-demo-0.png",
+            "assets/images/math/chap4/proposition-2-demo-1.png"
+          ]
+        },
+        {
           "id": 3,
           "exams": [
           ],
