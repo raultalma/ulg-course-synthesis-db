@@ -1077,7 +1077,7 @@
       "chapNumber": "4",
       "list": [
         {
-          "id": 0,
+          "id": 1,
           "exams": [
             "Janv 2023",
             "Aout 2022",
@@ -1086,6 +1086,16 @@
             "Sept 2019"
           ],
           "hasPriority": true,
+          "question": "Définition 4.1.",
+          "title": "Définir la notion d'approximation polynomiale au voisinage d'un point d'une fonction réelle.",
+          "type": "definition",
+          "explanationPath": "assets/images/math/chap4/def-1.png"
+        },
+        {
+          "id": 3,
+          "exams": [
+          ],
+          "hasPriority": false,
           "question": "Théorème 4.3 (Approximation polynomiale)",
           "title": "Théorème 4.3 (Approximation polynomiale)",
           "type": "theoreme",
@@ -1095,7 +1105,7 @@
           ]
         },
         {
-          "id": 1,
+          "id": 7,
           "exams": [
             "Janv 2019"
           ],
@@ -1109,7 +1119,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 38,
           "exams": [
             "Sept 2019"
           ],
@@ -1120,7 +1130,7 @@
           "explanationPath": "assets/images/math/chap4/proposition-38.png"
         },
         {
-          "id": 3,
+          "id": 40,
           "exams": [
             "Janv 2021"
           ],
