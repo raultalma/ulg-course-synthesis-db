@@ -1427,9 +1427,33 @@
           "hasPriority": true,
           "question": "Définir la fonction exponentielle.",
           "title": "Définition 4.40. La fonction exponentielle",
-          "type": "proposition",
+          "type": "definition",
           "explanationPath": [
             "assets/images/math/chap4/def-40.png"
+          ]
+        },
+        {
+          "id": 41,
+          "exams": [
+          ],
+          "hasPriority": false,
+          "question": "Théorème 4.41. [Pour l'info]",
+          "title": "Théorème 4.41. [Pour l'info]",
+          "type": "theoreme",
+          "explanationPath": [
+            "assets/images/math/chap4/theoreme-41.png"
+          ]
+        },
+        {
+          "id": 42,
+          "exams": [
+          ],
+          "hasPriority": false,
+          "question": "Proposition 4.42 (Propriétés de la fonction exponentielle). [Pour l'info]",
+          "title": "Proposition 4.42 (Propriétés de la fonction exponentielle).",
+          "type": "proposition",
+          "explanationPath": [
+            "assets/images/math/chap4/proposition-42.png"
           ]
         }
       ]
