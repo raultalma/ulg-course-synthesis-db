@@ -970,7 +970,8 @@
           "type": "lemme",
           "explanationPath": "assets/images/math/chap3/lemme-25.png",
           "demonstrationPath": [
-            "assets/images/math/chap3/lemme-25-demo.png"
+            "assets/images/math/chap3/lemme-25-demo.png",
+            "assets/images/math/chap3/lemme-25-demo-2.png"
           ],
           "exemplePath": [
             "assets/images/math/chap3/lemme-25-ex.png"
