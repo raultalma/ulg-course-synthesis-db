@@ -1144,7 +1144,11 @@
             "assets/images/math/chap4/remarque-5-part3.png",
             "assets/images/math/chap4/remarque-5-part4.png",
             "assets/images/math/chap4/remarque-5-part5.png"
-        ]
+        ],
+          "exemplePath": [
+            "assets/images/math/chap4/remarque-5-ex-0.png",
+            "assets/images/math/chap4/remarque-5-ex-1.png"
+          ]
 
         },
         {
