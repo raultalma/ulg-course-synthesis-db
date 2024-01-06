@@ -928,7 +928,7 @@
           ]
         },
         {
-          "id": 14,
+          "id": 14.4,
           "exams": [],
           "hasPriority": false,
           "question": "Définition 3.22. Le polynôme minimal de A ",
@@ -945,7 +945,8 @@
           "type": "lemme",
           "explanationPath": "assets/images/math/chap3/lemme-23.png",
           "demonstrationPath": [
-            "assets/images/math/chap3/lemme-23-demo.png"
+            "assets/images/math/chap3/lemme-23-demo.png",
+            "assets/images/math/chap3/lemme-23-demo-2.png"
           ]
         },
         {
