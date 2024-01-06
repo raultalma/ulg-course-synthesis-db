@@ -1127,7 +1127,7 @@
           "question": "Remarque 4.4",
           "title": "Remarque 4.4",
           "type": "remarque",
-          "explanationPath": ["assets/images/math/chap4/remarque-5.png"]
+          "explanationPath": ["assets/images/math/chap4/remarque-4.png"]
 
         },
         {
@@ -1138,7 +1138,13 @@
           "question": "Remarque 4.5",
           "title": "Remarque 4.5",
           "type": "remarque",
-          "explanationPath": ["assets/images/math/chap4/remarque-5.png"]
+          "explanationPath": [
+            "assets/images/math/chap4/remarque-5-part1.png",
+            "assets/images/math/chap4/remarque-5-part2.png",
+            "assets/images/math/chap4/remarque-5-part3.png",
+            "assets/images/math/chap4/remarque-5-part4.png",
+            "assets/images/math/chap4/remarque-5-part5.png"
+        ]
 
         },
         {
