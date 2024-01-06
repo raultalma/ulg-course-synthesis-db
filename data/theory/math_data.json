@@ -1086,8 +1086,8 @@
             "Sept 2019"
           ],
           "hasPriority": true,
-          "question": "Définition 4.1.",
-          "title": "Définir la notion d'approximation polynomiale au voisinage d'un point d'une fonction réelle.",
+          "question": "Définir la notion d'approximation polynomiale au voisinage d'un point d'une fonction réelle.",
+          "title": "Définition 4.1.",
           "type": "definition",
           "explanationPath": "assets/images/math/chap4/def-1.png"
         },
