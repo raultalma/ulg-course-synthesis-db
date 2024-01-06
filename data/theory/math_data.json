@@ -1455,6 +1455,21 @@
           "explanationPath": [
             "assets/images/math/chap4/proposition-42.png"
           ]
+        },
+        {
+          "id": 46,
+          "exams": [
+          ],
+          "hasPriority": false,
+          "question": "Proposition 4.46 (Propriétés de la fonction exponentielle). [Pour l'info]",
+          "title": "Proposition 4.46 (Propriétés de la fonction exponentielle).",
+          "type": "proposition",
+          "explanationPath": [
+            "assets/images/math/chap4/proposition-46.png"
+          ],
+          "demonstrationPath": [
+            "assets/images/math/chap4/proposition-46-demo.png"
+          ]
         }
       ]
     }
