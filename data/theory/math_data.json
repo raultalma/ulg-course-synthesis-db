@@ -1347,6 +1347,18 @@
           ]
         },
         {
+          "id": 34,
+          "exams": [
+          ],
+          "hasPriority": true,
+          "question": "Définition 4.34. Une série géométrique",
+          "title": "Définition 4.34. Une série géométrique",
+          "type": "definition",
+          "explanationPath": [
+            "assets/images/math/chap4/def-34.png"
+          ]
+        },
+        {
           "id": 38,
           "exams": [
             "Sept 2019"
