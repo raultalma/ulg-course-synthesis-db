@@ -1408,6 +1408,18 @@
           ]
         },
         {
+          "id": 39,
+          "exams": [
+          ],
+          "hasPriority": false,
+          "question": "Proposition 4.39. (Résultat admis)",
+          "title": "Proposition 4.39. (Résultat admis)",
+          "type": "proposition",
+          "explanationPath": [
+            "assets/images/math/chap4/proposition-39.png"
+          ]
+        },
+        {
           "id": 40,
           "exams": [
             "Janv 2021"
