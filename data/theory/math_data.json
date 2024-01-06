@@ -1115,6 +1115,7 @@
           "type": "theoreme",
           "explanationPath": "assets/images/math/chap4/theoreme-3.png",
           "demonstrationPath": [
+            "assets/images/math/chap4/theoreme-3-demo-info.png",
             "assets/images/math/chap4/theoreme-3-demo.png"
           ]
         },
