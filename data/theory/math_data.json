@@ -986,7 +986,8 @@
           "type": "proposition",
           "explanationPath": "assets/images/math/chap3/proposition-27.png",
           "demonstrationPath": [
-            "assets/images/math/chap3/proposition-27-demo.png"
+            "assets/images/math/chap3/proposition-27-demo.png",
+            "assets/images/math/chap3/proposition-27-demo-2.png"
           ],
           "exemplePath": [
             "assets/images/math/chap3/proposition-27-ex.png"
