@@ -11,7 +11,9 @@
           "question": "Donner la définition d'un polynome à coefficients dans K.",
           "title": "1.1 Définition polynôme à coefficients dans K",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-1.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/def-1.png"
+          ],
           "demonstrationPath": null,
           "explanationText": "Un polynôme à coefficients dans $K$ est une expression de la forme $$P = p_0 + p_1X + p_2X^2 + \\cdots + p_dX^d$$ où $d$ est un naturel, $p_0, p_1, \\ldots, p_d$ sont des éléments de l'ensemble $K$ et où $X$ est un symbole spécial. Les éléments $p_0, p_1, \\ldots$ de $K$ sont appelés les coefficients de $P$ tandis que $X$ est appelé l'indéterminée de $P$. L'ensemble des polynômes à coefficients dans $K$ et d'intéterminée $X$ est noté $K[X]$. Un polynôme (d'indéterminée $X$) à coefficients dans $K$ est une expression de la forme $$P = p_0 + p_1X + p_2X^2 + \\cdots + p_nX^n$$ où $n$ est un naturel, $p_0, p_1, \\ldots, p_n$ sont des éléments de l'ensemble $K$ et où $X$ est un symbole spécial. Les éléments $p_0, p_1, \\ldots$ de $K$ sont appelés les coefficients de $P$ tandis que $X$ est appelé l'indéterminée de $P$. Si $p_n \\neq 0$, on dit que $P$ est un polynôme de degré $n$ et on note $\\deg(P) = n$. Si $P = 0$, on pose $\\deg(P) = -\\infty$ et on dit que $P$ est le polynôme nul. Si $P$ est un polynôme non nul, on appelle coefficient dominant de $P$ le coefficient $p_n$ et on note $\\operatorname{cdom}(P) = p_n$. Si $P$ est un polynôme non nul et si $p_n = 1$, on dit que $P$ est un polynôme unitaire. Si $P$ est un polynôme non nul et si $p_n \\neq 0$, on dit que $P$ est un polynôme normalisé$. L'ensemble des polynômes à coefficients dans $K$ et d'intéterminée $X$ est noté $K[X]$. Il est entendu que $p_n = 0$ pour tout $n > \\deg(P)$."
         },
@@ -22,7 +24,9 @@
           "question": "Donner la définition de la (Somme, produit et multiplication par un scalaire) d'un ensemble K[X].",
           "title": "1.2 (Somme, produit et multiplication par un scalaire)",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-2.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-2.png"
+          ]
         },
         {
           "id": 2,
@@ -31,7 +35,9 @@
           "question": "Donner le degré pour (P + Q), (P * Q) et (kP)",
           "title": "Proposition 1.5.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-5.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-5.png"
+          ]
         },
         {
           "id": 2.2,
@@ -40,7 +46,9 @@
           "question": "Si P, Q ∈ K[X] sont tels que P · Q = 0, alors P = 0 ou Q = 0..",
           "title": "Corollaire 1.6",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap1/corollaire-6.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/corollaire-6.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/corollaire-6-demo.png"
           ]
@@ -57,7 +65,9 @@
           "question": "Donner la définition de la division euclidienne de polynômes.",
           "title": "Théorème 1.7 (Division euclidienne de polynômes)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap1/theoreme-7.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/theoreme-7.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/theoreme-7-demo.png"
           ]
@@ -69,7 +79,9 @@
           "question": "Définir le quotient et le reste de la division euclidienne de P par D.",
           "title": "Définition 1.11 (Quotient et reste de la division euclidienne)",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-11.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-11.png"
+          ]
         },
         {
           "id": 5,
@@ -78,7 +90,9 @@
           "question": "Quand est-ce qu'un polynôme D divise un polynôme P ?",
           "title": "Définition 1.12 (Polynôme D divise un polynôme P)",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-12.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-12.png"
+          ]
         },
         {
           "id": 6,
@@ -89,7 +103,9 @@
           "question": "Définir le PGCD de deux polynômes P et Q de K[X].",
           "title": "Définition 1.13 Le PGCD de deux polynômes K[X]",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-13.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-13.png"
+          ]
         },
         {
           "id": 7,
@@ -98,7 +114,9 @@
           "question": "Donner le Théorème de Bézout.",
           "title": "Théorème 1.15 (Bézout)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap1/theoreme-15.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/theoreme-15.png"
+          ]
         },
         {
           "id": 8,
@@ -107,7 +125,9 @@
           "question": "Quand deux polynômes P et Q de K[X] sont-ils premiers entre eux? ",
           "title": "Définition 1.17 Polynomes premiers entre eux",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-17.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-17.png"
+          ]
         },
         {
           "id": 9,
@@ -119,7 +139,9 @@
           "question": "Soient P, Q, D des polynomes `a coefficients dans C. Démontrer que si D divise le produit P Q et est premier avec P, alors D divise Q.",
           "title": "Théorème 1.18 (Gauss)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap1/theoreme-18.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/theoreme-18.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/theoreme-18-demo.png"
           ]
@@ -131,7 +153,9 @@
           "question": "Donner la définition de la fonction induite.",
           "title": "Définition 1.19 La fonction induite",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-19.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-19.png"
+          ]
         },
         {
           "id": 11,
@@ -140,7 +164,9 @@
           "question": "Donner la définition de la dérivée d'un polynome.",
           "title": "Définition 1.21 La dérivée d'un polynome",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-21.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-21.png"
+          ]
         },
         {
           "id": 12,
@@ -149,7 +175,9 @@
           "question": "Donner la Proposition 1.23.",
           "title": "Proposition 1.23",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-23.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-23.png"
+          ]
         },
         {
           "id": 13,
@@ -158,7 +186,9 @@
           "question": "Donner la Proposition 1.24.",
           "title": "Proposition 1.24",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-24.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-24.png"
+          ]
         },
         {
           "id": 14,
@@ -167,7 +197,9 @@
           "question": "Donner la Proposition 1.26.",
           "title": "Proposition 1.26",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-26.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-26.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-26-demo.png"
           ]
@@ -179,7 +211,9 @@
           "question": "Donner la Formule de Leibniz.",
           "title": "Proposition 1.27 (Formule de Leibniz)",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-27.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-27.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-27-demo.png"
           ]
@@ -191,7 +225,9 @@
           "question": "Donner la Formule de Taylor.",
           "title": "Proposition 1.28 (Formule de Taylor)",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-28.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-28.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-28-demo.png"
           ]
@@ -206,7 +242,9 @@
           "question": "Définit le zéro d'un polynome.",
           "title": "Définition 1.30 (Zéro d'un polynome)",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap1/def-30.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/def-30.png"
+          ]
         },
         {
           "id": 18,
@@ -217,7 +255,9 @@
           "question": "Donner la Proposition 1.32.",
           "title": "Proposition 1.32",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-32.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-32.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-32-demo.png"
           ]
@@ -231,7 +271,9 @@
           "question": "Définir la multiplicité α d'un polynome P.",
           "title": "Théorème 1.33 Multiplicité d'un polynome",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap1/theoreme-33.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/theoreme-33.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/theoreme-33-demo.png"
           ]
@@ -245,7 +287,9 @@
           "question": "Donner le Théorème fondamental de l’algèbre.",
           "title": "Théorème 1.35 (Théorème fondamental de l’algèbre).",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap1/theoreme-35.png"]
+          "explanationPath": [
+            "assets/images/math/chap1/theoreme-35.png"
+          ]
         },
         {
           "id": 31,
@@ -254,7 +298,9 @@
           "question": "Donner le Corollaire 1.36.",
           "title": "Corollaire 1.36.",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap1/corollaire-36.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/corollaire-36.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/corollaire-36-demo.png"
           ]
@@ -268,7 +314,9 @@
           "question": "Soit P ∈ R[X]. Si c ∈ C est un zéro de P, démontrez que son conjugué c¯ est aussi un zéro de P.",
           "title": "Lemme 1.38.",
           "type": "lemme",
-          "explanationPath": ["assets/images/math/chap1/lemme-38.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/lemme-38.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/lemme-38-demo.png"
           ]
@@ -280,7 +328,9 @@
           "question": "Démontrez que pour tout c ∈ C, on a (X − c)(X − c¯) ∈ R[X]",
           "title": "Lemme 1.39.",
           "type": "lemme",
-          "explanationPath": ["assets/images/math/chap1/lemme-39.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/lemme-39.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/lemme-39-demo.png"
           ]
@@ -292,7 +342,9 @@
           "question": "Enoncez et démontrez la proposition 1.41.",
           "title": "Proposition 1.41.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap1/proposition-41.png"],
+          "explanationPath": [
+            "assets/images/math/chap1/proposition-41.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-41-demo.png"
           ]
@@ -310,7 +362,9 @@
           "question": "Donner la définition d'un espace vectoriel sur K.",
           "title": "2.1 Définition polynôme à coefficients dans K",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-1.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/def-1.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap2/def-1-ex-0.png",
             "assets/images/math/chap2/def-1-ex-1.png"
@@ -323,7 +377,9 @@
           "question": "Soit E un espace vectoriel sur K. Citez et démontrez les opérations associées.",
           "title": "Proposition 2.3. Soit E un espace vectoriel sur K.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-3.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-3.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-3-demo.png"
           ]
@@ -338,7 +394,9 @@
           "question": "Donnez la définition d'une combinaison linéaire des vecteurs x1, . . . , xn de E.",
           "title": "Définition 2.4. Une combinaison linéaire",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-4.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-4.png"
+          ]
         },
         {
           "id": 3,
@@ -352,7 +410,9 @@
           "question": "Quand des vecteurs x1, . . . , xn de E sont linéairement indépendants ?",
           "title": "Définition 2.5. Des vecteurs inéairement indépendants",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-5.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/def-5.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap2/def-5-ex-0.png"
           ]
@@ -368,7 +428,9 @@
           "question": "Soit E un espace vectoriel sur C, soient x1, . . . , xn des vecteurs linéairement indépendants dans E et soit y un vecteur de E quelconque. Démontrer que les n + 1 vecteurs x1, . . . , xn, y sont linéairement dépendants si et seulement si y est combinaison linéaire de x1, . . . , xn.",
           "title": "Proposition 2.7. Critéres d'(in)dépendance linéaire",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-7.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-7.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-7-demo.png"
           ]
@@ -380,7 +442,9 @@
           "question": "Citez et démontrez le théorème de Steinitz.",
           "title": "Théorème 2.8 (Steinitz)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap2/theoreme-8.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/theoreme-8.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-8-demo-0.png"
           ]
@@ -392,7 +456,9 @@
           "question": "Donnez la définition d'un sous-espace vectoriel.",
           "title": "Définition 2.9. Sous-espace vectoriel",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-9.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-9.png"
+          ]
         },
         {
           "id": 7,
@@ -401,7 +467,9 @@
           "question": "Citez la proposition 2.10.",
           "title": "Proposition 2.10.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-10.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-10.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-10-demo.png"
           ]
@@ -415,7 +483,9 @@
           "question": "Donnez la définition de l'enveloppe linéaire d'une partie A de E",
           "title": "Définition 2.11. L'enveloppe linéaire",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-11.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-11.png"
+          ]
         },
         {
           "id": 9,
@@ -424,7 +494,9 @@
           "question": "Citez et démontrez la Proposition 2.12.",
           "title": "Proposition 2.12",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-12.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-12.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-12-demo.png"
           ]
@@ -436,7 +508,9 @@
           "question": "Quand est qu'ne partie F de E est un sous-espace vectoriel de E ?",
           "title": "Proposition 2.13. Quand est qu'ne partie F de E est un sous-espace vectoriel de E?",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-13.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-13.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-13-demo.png"
           ]
@@ -451,7 +525,9 @@
           "question": "Donnez la définition d'une partie génératrice de E.",
           "title": "Définition 2.14. Partie génératrice de E",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-14.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-14.png"
+          ]
         },
         {
           "id": 12,
@@ -462,7 +538,9 @@
           "question": "Donnez la définition d'une partie libre de E.",
           "title": "Définition 2.15. Partie libre de E",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-15.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-15.png"
+          ]
         },
         {
           "id": 13,
@@ -473,7 +551,9 @@
           "question": "Définition 2.17. Une base de E est une partie libre et génératrice de E",
           "title": "Définition 2.17. Une base de E est une partie libre et génératrice de E",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-17.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-17.png"
+          ]
         },
         {
           "id": 14,
@@ -484,7 +564,9 @@
           "question": "Démontrez que si E admet une partie génératrice finie de taille p, alors toute partie libre de E est de taille au plus p.",
           "title": "Lemme 2.18.",
           "type": "lemme",
-          "explanationPath": ["assets/images/math/chap2/lemme-18.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/lemme-18.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/lemme-18-demo.png"
           ]
@@ -496,7 +578,9 @@
           "question": "Citez et démotréz le Théorème de l'Équipotence des bases.",
           "title": "Théorème 2.19 (Équipotence des bases)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap2/theoreme-19.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/theoreme-19.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-19-demo.png"
           ]
@@ -508,7 +592,9 @@
           "question": "Citez et démotréz le Théorème de la Complétion des bases.",
           "title": "Théorème 2.20 (Complétion des bases)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap2/theoreme-20.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/theoreme-20.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-20-demo.png"
           ]
@@ -520,7 +606,9 @@
           "question": "Corollaire 2.21. Supposons que E admette une partie génératrice finie.",
           "title": "Corollaire 2.21. Supposons que E admette une partie génératrice finie.",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap2/corollaire-21.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/corollaire-21.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/corollaire-21-demo.png"
           ]
@@ -532,7 +620,9 @@
           "question": "Donnez la définition de la dimension d'une partie généractrice.",
           "title": "Définition 2.22. Dimension d'une partie généractrice.",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-22.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/def-22.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap2/def-22-ex.png"
           ]
@@ -544,7 +634,9 @@
           "question": "Proposition 2.24",
           "title": "Proposition 2.24",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-24.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-24.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-24-demo.png"
           ]
@@ -558,7 +650,9 @@
           "question": "Théorème 2.25 (Décomposition dans une base)",
           "title": "Théorème 2.25 (Décomposition dans une base)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap2/theoreme-25.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/theoreme-25.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-25-demo.png"
           ]
@@ -570,7 +664,9 @@
           "question": "Donnez la définition des composantes de x dans la base B.",
           "title": "Définition 2.26. Les composantes de x dans la base B",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-26.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-26.png"
+          ]
         },
         {
           "id": 22,
@@ -579,7 +675,9 @@
           "question": "Définition de la fonction ΨB.",
           "title": "Définition 2.27. Définition de la fonction ΨB",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-27.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-27.png"
+          ]
         },
         {
           "id": 23,
@@ -588,7 +686,9 @@
           "question": "Corollaire 2.28.",
           "title": "Corollaire 2.28.",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap2/corollaire-28.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/corollaire-28.png"
+          ]
         },
         {
           "id": 24,
@@ -597,7 +697,9 @@
           "question": "Corollaire 2.29.",
           "title": "Corollaire 2.29. !! Important",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap2/corollaire-29.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/corollaire-29.png"
+          ]
         },
         {
           "id": 25,
@@ -606,7 +708,9 @@
           "question": "Théorème 2.31 (Changement de basee)",
           "title": "Théorème 2.31 (Changement de basee)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap2/theoreme-31.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/theoreme-31.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-31-demo.png"
           ],
@@ -621,7 +725,9 @@
           "question": "Définition 2.32. Définition de la matrice de changement de base",
           "title": "Définition 2.32. Définition de la matrice de changement de base",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-32.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/def-32.png"
+          ]
         },
         {
           "id": 27,
@@ -630,7 +736,9 @@
           "question": "Proposition 2.33 Formule changement de base",
           "title": "Proposition 2.33 Formule changement de base",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-33.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-33.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-33-demo.png"
           ]
@@ -642,7 +750,9 @@
           "question": "Corollaire 2.34. Inverse de la matrice de changement de base",
           "title": "Corollaire 2.34. Inverse de la matrice de changement de base",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap2/corollaire-34.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/corollaire-34.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/corollaire-34-demo.png"
           ]
@@ -654,7 +764,9 @@
           "question": "Proposition 2.35 Propositions importantes pour la dépendance linéaire",
           "title": "Proposition 2.35 Propositions importantes pour la dépendance linéaire",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-35.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-35.png"
+          ]
         },
         {
           "id": 30,
@@ -665,7 +777,9 @@
           "question": "Théorème 2.37. Le rang d'une matrice",
           "title": "Théorème 2.37. Le rang d'une matrice",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap2/theoreme-37.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/theoreme-37.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-37-demo.png"
           ]
@@ -680,7 +794,9 @@
           "question": "Définition 2.38. Définition de l'image et du noyeau de A.",
           "title": "Définition 2.38. Définition de l'image et du noyeau de A.",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap2/def-38.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/def-38.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap2/def-38-ex.png"
           ]
@@ -692,7 +808,9 @@
           "question": "Proposition 2.40.",
           "title": "Proposition 2.40.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-40.png"]
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-40.png"
+          ]
         },
         {
           "id": 33,
@@ -701,7 +819,9 @@
           "question": "Proposition 2.41. dim Ker(A) = c - rg(A)",
           "title": "Proposition 2.41. dim Ker(A) = c - rg(A)",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-41.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-41.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-41-demo-0.png",
             "assets/images/math/chap2/proposition-41-demo-1.png"
@@ -714,7 +834,9 @@
           "question": "Proposition 2.42. dim Im(A) = rg(A)",
           "title": "Proposition 2.42. dim Im(A) = rg(A)",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap2/proposition-42.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/proposition-42.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-42-demo.png"
           ]
@@ -726,7 +848,9 @@
           "question": "Corollaire 2.43. dim Im(A) + dim Ker(A) = c",
           "title": "Corollaire 2.43 (Théorème du rang)",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap2/corollaire-43.png"],
+          "explanationPath": [
+            "assets/images/math/chap2/corollaire-43.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap2/corollaire-43-demo.png"
           ]
@@ -747,7 +871,9 @@
           "question": "Quand une matrice est-elle diagolanisable ?",
           "title": "3.1 Définition d'une matrice diagonalisable",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-1.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-1.png"
+          ]
         },
         {
           "id": 1,
@@ -759,7 +885,9 @@
           "question": "Donnez la définition de la valeur propre d'une matrice complexe A.",
           "title": "3.2 Définition de la valeur propre d'une matrice compléxe A ",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-2.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-2.png"
+          ]
         },
         {
           "id": 2,
@@ -771,7 +899,9 @@
           "question": "Donnez la définition d'un vecteur propre d'une matrice compléxe A.",
           "title": "3.3 Définition d'un vecteur propre d'une matrice compléxe A ",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-3.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-3.png"
+          ]
         },
         {
           "id": 3,
@@ -783,7 +913,9 @@
           "question": "Définir la multiplicité géométrique d'une valeur propre.",
           "title": "3.4 Définition de la multiplicité géométrique d'une valeur propre de A ",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-4.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-4.png"
+          ]
         },
         {
           "id": 4,
@@ -792,7 +924,9 @@
           "question": "Proposition 3.6. Eλ(A) = Ker(A - λIm) et dim Eλ(A) = m - rg(A - λIm).",
           "title": "Proposition 3.6. Eλ(A) = Ker(A - λIm) et dim Eλ(A) = m - rg(A - λIm).",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-6.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-6.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-6-demo.png"
           ]
@@ -804,7 +938,9 @@
           "question": "Proposition 3.7. Des vecteurs propres non nuls relatifs à des valeurs propres distinctes sont linéairement indépendants.",
           "title": "Proposition 3.7.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-7.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-7.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-7-demo-0.png",
             "assets/images/math/chap3/proposition-7-demo-1.png"
@@ -819,7 +955,9 @@
           "question": "Définition 3.8. Le polynôme caractéristique de A",
           "title": "Définition 3.8. Le polynôme caractéristique de A",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-8.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/def-8.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap3/def-8-ex-0.png",
             "assets/images/math/chap3/def-8-ex-1.png"
@@ -835,7 +973,9 @@
           "question": "Démontrer qu'un nombre complexe est valeur propre d'une matrice carrée complexe si et seulement s'il est zéro de son polynome caractéristique.",
           "title": "Proposition 3.11.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-11.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-11.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-11-demo.png"
           ]
@@ -847,7 +987,9 @@
           "question": "La multiplicité algébrique d'un nombre λ ∈ C.",
           "title": "Définition 3.12 La multiplicité algébrique d'un nombre λ ∈ C",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-12.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-12.png"
+          ]
         },
         {
           "id": 9,
@@ -856,7 +998,9 @@
           "question": "Proposition 3.14.",
           "title": "Proposition 3.14.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-14.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-14.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-14-demo.png"
           ]
@@ -868,7 +1012,9 @@
           "question": "Proposition 3.15. La multiplicité géométrique d'une valeur propre est inférieure à sa multiplicité algébrique",
           "title": "Proposition 3.15. Mult. géo. < Mult. algé.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-15.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-15.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-15-demo.png"
           ]
@@ -884,7 +1030,9 @@
           "question": "Définition 3.16. La trace de A, notée tr(A)",
           "title": "Définition 3.16. La trace de A, notée tr(A)",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-16.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-16.png"
+          ]
         },
         {
           "id": 12,
@@ -898,7 +1046,9 @@
           "question": "Proposition 3.17. det(A) et tr(A)",
           "title": "Proposition 3.17. det(A) et tr(A)",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-17.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-17.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-17-demo.png"
           ]
@@ -910,7 +1060,9 @@
           "question": "Définition 3.18.",
           "title": "Définition 3.18.",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-18.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/def-18.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap3/def-18-ex.png"
           ]
@@ -922,7 +1074,9 @@
           "question": "Théorème 3.20 (Cayley-Hamilton)",
           "title": "Théorème 3.20 (Cayley-Hamilton)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap3/theoreme-20.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/theoreme-20.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap3/theoreme-20-ex.png"
           ]
@@ -934,7 +1088,9 @@
           "question": "Définition 3.22. Le polynôme minimal de A ",
           "title": "Définition 3.22. Le polynôme minimal de A ",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap3/def-22.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/def-22.png"
+          ]
         },
         {
           "id": 15,
@@ -943,7 +1099,9 @@
           "question": "Lemme 3.23",
           "title": "Lemme 3.23",
           "type": "lemme",
-          "explanationPath": ["assets/images/math/chap3/lemme-23.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/lemme-23.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/lemme-23-demo.png",
             "assets/images/math/chap3/lemme-23-demo-2.png"
@@ -956,7 +1114,9 @@
           "question": "Proposition 3.24.",
           "title": "Proposition 3.24.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-24.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-24.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-24-demo.png"
           ]
@@ -968,7 +1128,9 @@
           "question": "Lemme 3.25",
           "title": "Lemme 3.25",
           "type": "lemme",
-          "explanationPath": ["assets/images/math/chap3/lemme-25.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/lemme-25.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/lemme-25-demo.png",
             "assets/images/math/chap3/lemme-25-demo-2.png"
@@ -984,7 +1146,9 @@
           "question": "Proposition 3.27. Les zéros du polynôme minimal de A sont les valeurs propres de A.",
           "title": "Proposition 3.27. Les zéros du polynôme minimal de A sont les valeurs propres de A.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-27.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-27.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-27-demo.png",
             "assets/images/math/chap3/proposition-27-demo-2.png"
@@ -1000,7 +1164,9 @@
           "question": "Corollaire 3.29.",
           "title": "Corollaire 3.29.",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap3/corollaire-29.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/corollaire-29.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/corollaire-29-demo.png"
           ],
@@ -1017,7 +1183,9 @@
           "question": "Théorème 3.31 (Critères de diagonalisation)",
           "title": "Théorème 3.31 (Critères de diagonalisation)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap3/theoreme-31.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/theoreme-31.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/theoreme-31-demo-0.png",
             "assets/images/math/chap3/theoreme-31-demo-1.png"
@@ -1030,7 +1198,9 @@
           "question": "Corollaire 3.32",
           "title": "Corollaire 3.32 !!! Avec exemple de diagonalisation",
           "type": "corollaire",
-          "explanationPath": ["assets/images/math/chap3/corollaire-32.png"],
+          "explanationPath": [
+            "assets/images/math/chap3/corollaire-32.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap3/corollaire-32-demo.png"
           ],
@@ -1050,7 +1220,9 @@
           "question": "Proposition 3.35.",
           "title": "Proposition 3.35.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-35.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-35.png"
+          ]
         },
         {
           "id": 23,
@@ -1059,7 +1231,9 @@
           "question": "Proposition 3.36.",
           "title": "Proposition 3.36.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-36.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-36.png"
+          ]
         },
         {
           "id": 24,
@@ -1068,7 +1242,9 @@
           "question": "Proposition 3.37.",
           "title": "Proposition 3.37.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap3/proposition-37.png"]
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-37.png"
+          ]
         }
       ]
     },
@@ -1089,17 +1265,20 @@
           "question": "Définir la notion d'approximation polynomiale au voisinage d'un point d'une fonction réelle.",
           "title": "Définition 4.1.",
           "type": "definition",
-          "explanationPath": ["assets/images/math/chap4/def-1.png"]
+          "explanationPath": [
+            "assets/images/math/chap4/def-1.png"
+          ]
         },
         {
           "id": 2,
-          "exams": [
-          ],
+          "exams": [],
           "hasPriority": false,
           "question": "Proposition 4.2. Approximation polynomiale unique.",
           "title": "Proposition 4.2.",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap4/proposition-2.png"],
+          "explanationPath": [
+            "assets/images/math/chap4/proposition-2.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap4/proposition-2-demo-0.png",
             "assets/images/math/chap4/proposition-2-demo-1.png"
@@ -1107,13 +1286,14 @@
         },
         {
           "id": 3,
-          "exams": [
-          ],
+          "exams": [],
           "hasPriority": false,
           "question": "Théorème 4.3 (Approximation polynomiale) C'est une téchnique pour obtenir l'approximation polynomiale et pas la définition. !! À ne pas confondre !",
           "title": "Théorème 4.3 (Approximation polynomiale)",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap4/theoreme-3.png"],
+          "explanationPath": [
+            "assets/images/math/chap4/theoreme-3.png"
+          ],
           "demonstrationPath": [
             "assets/images/math/chap4/theoreme-3-demo-info.png",
             "assets/images/math/chap4/theoreme-3-demo.png"
@@ -1121,19 +1301,18 @@
         },
         {
           "id": 4,
-          "exams": [
-          ],
+          "exams": [],
           "hasPriority": false,
           "question": "Remarque 4.4",
           "title": "Remarque 4.4",
           "type": "remarque",
-          "explanationPath": ["assets/images/math/chap4/remarque-4.png"]
-
+          "explanationPath": [
+            "assets/images/math/chap4/remarque-4.png"
+          ]
         },
         {
           "id": 5,
-          "exams": [
-          ],
+          "exams": [],
           "hasPriority": false,
           "question": "Remarque 4.5",
           "title": "Remarque 4.5",
@@ -1144,12 +1323,11 @@
             "assets/images/math/chap4/remarque-5-part3.png",
             "assets/images/math/chap4/remarque-5-part4.png",
             "assets/images/math/chap4/remarque-5-part5.png"
-        ],
+          ],
           "exemplePath": [
             "assets/images/math/chap4/remarque-5-ex-0.png",
             "assets/images/math/chap4/remarque-5-ex-1.png"
           ]
-
         },
         {
           "id": 7,
@@ -1160,7 +1338,10 @@
           "question": "Enoncer le théorème du développement limité de Taylor. Comment celui-ci permet-il d'estimer le reste d'une approximation polynomiale ?",
           "title": "Théorème 4.7 (Développement limité de Taylor).",
           "type": "theoreme",
-          "explanationPath": ["assets/images/math/chap4/theoreme-7.png"],
+          "explanationPath": [
+            "assets/images/math/chap4/theoreme-7.png",
+            "assets/images/math/chap4/theoreme-7-part2.png"
+          ],
           "exemplePath": [
             "assets/images/math/chap4/theoreme-7-ex.png"
           ]
@@ -1174,7 +1355,9 @@
           "question": "Enoncer le critère de comparaison des séries réelles.",
           "title": "Proposition 4.38. (Critère de comparaison).",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap4/proposition-38.png"]
+          "explanationPath": [
+            "assets/images/math/chap4/proposition-38.png"
+          ]
         },
         {
           "id": 40,
@@ -1185,7 +1368,9 @@
           "question": "Définir la fonction exponentielle.",
           "title": "Définition 4.40. La fonction exponentielle",
           "type": "proposition",
-          "explanationPath": ["assets/images/math/chap4/def-40.png"]
+          "explanationPath": [
+            "assets/images/math/chap4/def-40.png"
+          ]
         }
       ]
     }
