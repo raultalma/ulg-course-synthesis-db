@@ -619,8 +619,9 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-20.png"
           ],
-          "isProofAskedAtExam": true,
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
+            "assets/images/math/shared/demo-not-asked.png",
             "assets/images/math/chap2/theoreme-20-demo.png"
           ]
         },
