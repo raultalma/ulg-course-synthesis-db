@@ -14,7 +14,6 @@
           "explanationPath": [
             "assets/images/math/chap1/def-1.png"
           ],
-          "demonstrationPath": null,
           "explanationText": "Un polynôme à coefficients dans $K$ est une expression de la forme $$P = p_0 + p_1X + p_2X^2 + \\cdots + p_dX^d$$ où $d$ est un naturel, $p_0, p_1, \\ldots, p_d$ sont des éléments de l'ensemble $K$ et où $X$ est un symbole spécial. Les éléments $p_0, p_1, \\ldots$ de $K$ sont appelés les coefficients de $P$ tandis que $X$ est appelé l'indéterminée de $P$. L'ensemble des polynômes à coefficients dans $K$ et d'intéterminée $X$ est noté $K[X]$. Un polynôme (d'indéterminée $X$) à coefficients dans $K$ est une expression de la forme $$P = p_0 + p_1X + p_2X^2 + \\cdots + p_nX^n$$ où $n$ est un naturel, $p_0, p_1, \\ldots, p_n$ sont des éléments de l'ensemble $K$ et où $X$ est un symbole spécial. Les éléments $p_0, p_1, \\ldots$ de $K$ sont appelés les coefficients de $P$ tandis que $X$ est appelé l'indéterminée de $P$. Si $p_n \\neq 0$, on dit que $P$ est un polynôme de degré $n$ et on note $\\deg(P) = n$. Si $P = 0$, on pose $\\deg(P) = -\\infty$ et on dit que $P$ est le polynôme nul. Si $P$ est un polynôme non nul, on appelle coefficient dominant de $P$ le coefficient $p_n$ et on note $\\operatorname{cdom}(P) = p_n$. Si $P$ est un polynôme non nul et si $p_n = 1$, on dit que $P$ est un polynôme unitaire. Si $P$ est un polynôme non nul et si $p_n \\neq 0$, on dit que $P$ est un polynôme normalisé$. L'ensemble des polynômes à coefficients dans $K$ et d'intéterminée $X$ est noté $K[X]$. Il est entendu que $p_n = 0$ pour tout $n > \\deg(P)$."
         },
         {
@@ -49,6 +48,7 @@
           "explanationPath": [
             "assets/images/math/chap1/corollaire-6.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/corollaire-6-demo.png"
           ]
@@ -68,6 +68,7 @@
           "explanationPath": [
             "assets/images/math/chap1/theoreme-7.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/theoreme-7-demo.png"
           ]
@@ -142,6 +143,7 @@
           "explanationPath": [
             "assets/images/math/chap1/theoreme-18.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/theoreme-18-demo.png"
           ]
@@ -200,6 +202,7 @@
           "explanationPath": [
             "assets/images/math/chap1/proposition-26.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-26-demo.png"
           ]
@@ -214,6 +217,7 @@
           "explanationPath": [
             "assets/images/math/chap1/proposition-27.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-27-demo.png"
           ]
@@ -229,6 +233,7 @@
           "explanationPath": [
             "assets/images/math/chap1/proposition-28.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-28-demo.png"
           ]
@@ -259,6 +264,7 @@
           "explanationPath": [
             "assets/images/math/chap1/proposition-32.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-32-demo.png"
           ]
@@ -275,6 +281,7 @@
           "explanationPath": [
             "assets/images/math/chap1/theoreme-33.png"
           ],
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
             "assets/images/math/shared/demo-not-asked.png",
             "assets/images/math/chap1/theoreme-33-demo.png"
@@ -304,6 +311,7 @@
           "explanationPath": [
             "assets/images/math/chap1/corollaire-36.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/corollaire-36-demo.png"
           ]
@@ -320,6 +328,7 @@
           "explanationPath": [
             "assets/images/math/chap1/lemme-38.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/lemme-38-demo.png"
           ]
@@ -334,6 +343,7 @@
           "explanationPath": [
             "assets/images/math/chap1/lemme-39.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/lemme-39-demo.png"
           ]
@@ -348,6 +358,7 @@
           "explanationPath": [
             "assets/images/math/chap1/proposition-41.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap1/proposition-41-demo.png"
           ]
@@ -383,6 +394,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-3.png"
           ],
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
             "assets/images/math/shared/left-to-exercices.png",
             "assets/images/math/chap2/proposition-3-demo.png"
@@ -435,6 +447,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-7.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-7-demo.png"
           ]
@@ -449,7 +462,9 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-8.png"
           ],
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
+            "assets/images/math/shared/demo-not-asked.png",
             "assets/images/math/chap2/theoreme-8-demo-0.png"
           ]
         },
@@ -474,6 +489,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-10.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-10-demo.png"
           ]
@@ -501,6 +517,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-12.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-12-demo.png"
           ]
@@ -515,6 +532,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-13.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-13-demo.png"
           ]
@@ -571,6 +589,7 @@
           "explanationPath": [
             "assets/images/math/chap2/lemme-18.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/lemme-18-demo.png"
           ]
@@ -585,6 +604,7 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-19.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-19-demo.png"
           ]
@@ -599,6 +619,7 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-20.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-20-demo.png"
           ]
@@ -613,6 +634,7 @@
           "explanationPath": [
             "assets/images/math/chap2/corollaire-21.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/corollaire-21-demo.png"
           ]
@@ -641,6 +663,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-24.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-24-demo.png"
           ]
@@ -657,6 +680,7 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-25.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-25-demo.png"
           ]
@@ -715,6 +739,7 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-31.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-31-demo.png"
           ],
@@ -743,6 +768,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-33.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-33-demo.png"
           ]
@@ -757,6 +783,7 @@
           "explanationPath": [
             "assets/images/math/chap2/corollaire-34.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/corollaire-34-demo.png"
           ]
@@ -784,6 +811,7 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-37.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/theoreme-37-demo.png"
           ]
@@ -826,6 +854,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-41.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-41-demo-0.png",
             "assets/images/math/chap2/proposition-41-demo-1.png"
@@ -841,6 +870,7 @@
           "explanationPath": [
             "assets/images/math/chap2/proposition-42.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/proposition-42-demo.png"
           ]
@@ -855,6 +885,7 @@
           "explanationPath": [
             "assets/images/math/chap2/corollaire-43.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap2/corollaire-43-demo.png"
           ]
@@ -931,6 +962,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-6.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-6-demo.png"
           ]
@@ -945,6 +977,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-7.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-7-demo-0.png",
             "assets/images/math/chap3/proposition-7-demo-1.png"
@@ -980,6 +1013,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-11.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-11-demo.png"
           ]
@@ -1005,6 +1039,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-14.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-14-demo.png"
           ]
@@ -1019,6 +1054,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-15.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-15-demo.png"
           ]
@@ -1053,6 +1089,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-17.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-17-demo.png"
           ]
@@ -1106,6 +1143,7 @@
           "explanationPath": [
             "assets/images/math/chap3/lemme-23.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/lemme-23-demo.png",
             "assets/images/math/chap3/lemme-23-demo-2.png"
@@ -1121,6 +1159,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-24.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-24-demo.png"
           ]
@@ -1135,6 +1174,7 @@
           "explanationPath": [
             "assets/images/math/chap3/lemme-25.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/lemme-25-demo.png",
             "assets/images/math/chap3/lemme-25-demo-2.png"
@@ -1153,6 +1193,7 @@
           "explanationPath": [
             "assets/images/math/chap3/proposition-27.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/proposition-27-demo.png",
             "assets/images/math/chap3/proposition-27-demo-2.png"
@@ -1171,6 +1212,7 @@
           "explanationPath": [
             "assets/images/math/chap3/corollaire-29.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/corollaire-29-demo.png"
           ],
@@ -1190,6 +1232,7 @@
           "explanationPath": [
             "assets/images/math/chap3/theoreme-31.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/theoreme-31-demo-0.png",
             "assets/images/math/chap3/theoreme-31-demo-1.png"
@@ -1205,6 +1248,7 @@
           "explanationPath": [
             "assets/images/math/chap3/corollaire-32.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap3/corollaire-32-demo.png"
           ],
@@ -1284,6 +1328,7 @@
           "explanationPath": [
             "assets/images/math/chap4/proposition-2.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap4/proposition-2-demo-0.png",
             "assets/images/math/chap4/proposition-2-demo-1.png"
@@ -1299,6 +1344,7 @@
           "explanationPath": [
             "assets/images/math/chap4/theoreme-3.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap4/theoreme-3-demo-info.png",
             "assets/images/math/chap4/theoreme-3-demo.png"
@@ -1472,6 +1518,7 @@
           "explanationPath": [
             "assets/images/math/chap4/proposition-46.png"
           ],
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
             "assets/images/math/chap4/proposition-46-demo.png"
           ]
