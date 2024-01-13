@@ -1154,6 +1154,21 @@
           ]
         },
         {
+          "id": 15.1,
+          "exams": [],
+          "isImportant": false,
+          "question": "Proposition: existance d'un unique polynome minimal.",
+          "title": "Proposition: existance d'un unique polynome minimal.",
+          "type": "proposition",
+          "explanationPath": [
+            "assets/images/math/chap3/proposition-23-bis.png"
+          ],
+          "isProofAskedAtExam": true,
+          "demonstrationPath": [
+            "assets/images/math/chap3/proposition-23-bis-demo.png"
+          ]
+        },
+        {
           "id": 16,
           "exams": [],
           "isImportant": false,
