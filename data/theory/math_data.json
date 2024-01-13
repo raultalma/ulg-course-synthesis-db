@@ -740,8 +740,9 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-31.png"
           ],
-          "isProofAskedAtExam": true,
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
+            "assets/images/math/shared/demo-not-asked.png",
             "assets/images/math/chap2/theoreme-31-demo.png"
           ],
           "exemplePath": [
@@ -810,7 +811,8 @@
           "title": "Théorème 2.37. Le rang d'une matrice",
           "type": "theoreme",
           "explanationPath": [
-            "assets/images/math/chap2/theoreme-37.png"
+            "assets/images/math/chap2/theoreme-37.png",
+            "assets/images/math/chap2/theoreme-37-part-2.png"
           ],
           "isProofAskedAtExam": true,
           "demonstrationPath": [
