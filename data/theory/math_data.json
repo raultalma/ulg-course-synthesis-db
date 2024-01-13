@@ -1263,7 +1263,8 @@
             "Janv 2020",
             "Sept 2019"
           ],
-          "isImportant": false,
+          "isImportant": true,
+          "isImportantMessage": "C'est ce qu'il faut fournir si elle demande de définir l'approximation polynomiale !",
           "question": "Définir la notion d'approximation polynomiale au voisinage d'un point d'une fonction réelle.",
           "title": "Définition 4.1.",
           "type": "definition",
