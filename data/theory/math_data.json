@@ -381,10 +381,10 @@
           "title": "Proposition 2.3. Soit E un espace vectoriel sur K.",
           "type": "proposition",
           "explanationPath": [
-            "assets/images/math/shared/left-to-exercices.png",
             "assets/images/math/chap2/proposition-3.png"
           ],
           "demonstrationPath": [
+            "assets/images/math/shared/left-to-exercices.png",
             "assets/images/math/chap2/proposition-3-demo.png"
           ]
         },
