@@ -814,8 +814,9 @@
             "assets/images/math/chap2/theoreme-37.png",
             "assets/images/math/chap2/theoreme-37-part-2.png"
           ],
-          "isProofAskedAtExam": true,
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
+            "assets/images/math/shared/demo-not-asked.png",
             "assets/images/math/chap2/theoreme-37-demo.png"
           ]
         },
