@@ -7,7 +7,7 @@
         {
           "id": 0,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la définition d'un polynome à coefficients dans K.",
           "title": "1.1 Définition polynôme à coefficients dans K",
           "type": "definition",
@@ -20,7 +20,7 @@
         {
           "id": 1,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la définition de la (Somme, produit et multiplication par un scalaire) d'un ensemble K[X].",
           "title": "1.2 (Somme, produit et multiplication par un scalaire)",
           "type": "definition",
@@ -31,7 +31,7 @@
         {
           "id": 2,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner le degré pour (P + Q), (P * Q) et (kP)",
           "title": "Proposition 1.5.",
           "type": "proposition",
@@ -42,7 +42,7 @@
         {
           "id": 2.2,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Si P, Q ∈ K[X] sont tels que P · Q = 0, alors P = 0 ou Q = 0..",
           "title": "Corollaire 1.6",
           "type": "corollaire",
@@ -61,7 +61,7 @@
             "Janv 2022",
             "Janv 2021"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donner la définition de la division euclidienne de polynômes.",
           "title": "Théorème 1.7 (Division euclidienne de polynômes)",
           "type": "theoreme",
@@ -75,7 +75,7 @@
         {
           "id": 4,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définir le quotient et le reste de la division euclidienne de P par D.",
           "title": "Définition 1.11 (Quotient et reste de la division euclidienne)",
           "type": "definition",
@@ -86,7 +86,7 @@
         {
           "id": 5,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Quand est-ce qu'un polynôme D divise un polynôme P ?",
           "title": "Définition 1.12 (Polynôme D divise un polynôme P)",
           "type": "definition",
@@ -99,7 +99,7 @@
           "exams": [
             "Sept 2019"
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définir le PGCD de deux polynômes P et Q de K[X].",
           "title": "Définition 1.13 Le PGCD de deux polynômes K[X]",
           "type": "definition",
@@ -110,7 +110,7 @@
         {
           "id": 7,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner le Théorème de Bézout.",
           "title": "Théorème 1.15 (Bézout)",
           "type": "theoreme",
@@ -121,7 +121,7 @@
         {
           "id": 8,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Quand deux polynômes P et Q de K[X] sont-ils premiers entre eux? ",
           "title": "Définition 1.17 Polynomes premiers entre eux",
           "type": "definition",
@@ -135,8 +135,8 @@
             "Aout 2023",
             "Janv 2019"
           ],
-          "hasPriority": true,
-          "question": "Soient P, Q, D des polynomes `a coefficients dans C. Démontrer que si D divise le produit P Q et est premier avec P, alors D divise Q.",
+          "isImportant": false,
+          "question": "Soient P, Q, D des polynomes à coefficients dans C. Démontrer que si D divise le produit P Q et est premier avec P, alors D divise Q.",
           "title": "Théorème 1.18 (Gauss)",
           "type": "theoreme",
           "explanationPath": [
@@ -149,7 +149,7 @@
         {
           "id": 10,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la définition de la fonction induite.",
           "title": "Définition 1.19 La fonction induite",
           "type": "definition",
@@ -160,7 +160,7 @@
         {
           "id": 11,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la définition de la dérivée d'un polynome.",
           "title": "Définition 1.21 La dérivée d'un polynome",
           "type": "definition",
@@ -171,7 +171,7 @@
         {
           "id": 12,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la Proposition 1.23.",
           "title": "Proposition 1.23",
           "type": "proposition",
@@ -182,7 +182,7 @@
         {
           "id": 13,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la Proposition 1.24.",
           "title": "Proposition 1.24",
           "type": "proposition",
@@ -193,7 +193,7 @@
         {
           "id": 14,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la Proposition 1.26.",
           "title": "Proposition 1.26",
           "type": "proposition",
@@ -207,7 +207,7 @@
         {
           "id": 15,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donner la Formule de Leibniz.",
           "title": "Proposition 1.27 (Formule de Leibniz)",
           "type": "proposition",
@@ -221,7 +221,8 @@
         {
           "id": 16,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": true,
+          "isImportantMessage": "La prof. a dit que c'est une des démos. les plus importantes du cours pour la partie polynomes.",
           "question": "Donner la Formule de Taylor.",
           "title": "Proposition 1.28 (Formule de Taylor)",
           "type": "proposition",
@@ -238,7 +239,7 @@
             "Janv 2020",
             "Janv 2019"
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définit le zéro d'un polynome.",
           "title": "Définition 1.30 (Zéro d'un polynome)",
           "type": "definition",
@@ -251,7 +252,7 @@
           "exams": [
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donner la Proposition 1.32.",
           "title": "Proposition 1.32",
           "type": "proposition",
@@ -267,7 +268,7 @@
           "exams": [
             "Janv 2019"
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définir la multiplicité α d'un polynome P.",
           "title": "Théorème 1.33 Multiplicité d'un polynome",
           "type": "theoreme",
@@ -283,9 +284,10 @@
           "exams": [
             "Aout 2021"
           ],
-          "hasPriority": true,
-          "question": "Donner le Théorème fondamental de l’algèbre.",
-          "title": "Théorème 1.35 (Théorème fondamental de l’algèbre).",
+          "isImportant": true,
+          "isImportantMessage": "La prof a vraiment insisté sur son importance.",
+          "question": "Donner le Théorème fondamental de l'algèbre.",
+          "title": "Théorème 1.35 (Théorème fondamental de l'algèbre).",
           "type": "theoreme",
           "explanationPath": [
             "assets/images/math/chap1/theoreme-35.png"
@@ -294,7 +296,7 @@
         {
           "id": 31,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donner le Corollaire 1.36.",
           "title": "Corollaire 1.36.",
           "type": "corollaire",
@@ -310,7 +312,7 @@
           "exams": [
             "Janv 2021"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Soit P ∈ R[X]. Si c ∈ C est un zéro de P, démontrez que son conjugué c¯ est aussi un zéro de P.",
           "title": "Lemme 1.38.",
           "type": "lemme",
@@ -324,7 +326,7 @@
         {
           "id": 33,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Démontrez que pour tout c ∈ C, on a (X − c)(X − c¯) ∈ R[X]",
           "title": "Lemme 1.39.",
           "type": "lemme",
@@ -338,7 +340,7 @@
         {
           "id": 34,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Enoncez et démontrez la proposition 1.41.",
           "title": "Proposition 1.41.",
           "type": "proposition",
@@ -358,7 +360,7 @@
         {
           "id": 0,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donner la définition d'un espace vectoriel sur K.",
           "title": "2.1 Définition polynôme à coefficients dans K",
           "type": "definition",
@@ -373,7 +375,7 @@
         {
           "id": 1,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Soit E un espace vectoriel sur K. Citez et démontrez les opérations associées.",
           "title": "Proposition 2.3. Soit E un espace vectoriel sur K.",
           "type": "proposition",
@@ -390,7 +392,7 @@
             "Aout 2021",
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition d'une combinaison linéaire des vecteurs x1, . . . , xn de E.",
           "title": "Définition 2.4. Une combinaison linéaire",
           "type": "definition",
@@ -406,7 +408,7 @@
             "Sept 2019",
             "Janv 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Quand des vecteurs x1, . . . , xn de E sont linéairement indépendants ?",
           "title": "Définition 2.5. Des vecteurs inéairement indépendants",
           "type": "definition",
@@ -424,7 +426,7 @@
             "Janv 2021",
             "Janv 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Soit E un espace vectoriel sur C, soient x1, . . . , xn des vecteurs linéairement indépendants dans E et soit y un vecteur de E quelconque. Démontrer que les n + 1 vecteurs x1, . . . , xn, y sont linéairement dépendants si et seulement si y est combinaison linéaire de x1, . . . , xn.",
           "title": "Proposition 2.7. Critéres d'(in)dépendance linéaire",
           "type": "proposition",
@@ -438,7 +440,7 @@
         {
           "id": 5,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Citez et démontrez le théorème de Steinitz.",
           "title": "Théorème 2.8 (Steinitz)",
           "type": "theoreme",
@@ -452,7 +454,7 @@
         {
           "id": 6,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition d'un sous-espace vectoriel.",
           "title": "Définition 2.9. Sous-espace vectoriel",
           "type": "definition",
@@ -463,7 +465,7 @@
         {
           "id": 7,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Citez la proposition 2.10.",
           "title": "Proposition 2.10.",
           "type": "proposition",
@@ -479,7 +481,7 @@
           "exams": [
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition de l'enveloppe linéaire d'une partie A de E",
           "title": "Définition 2.11. L'enveloppe linéaire",
           "type": "definition",
@@ -490,7 +492,7 @@
         {
           "id": 9,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Citez et démontrez la Proposition 2.12.",
           "title": "Proposition 2.12",
           "type": "proposition",
@@ -504,7 +506,7 @@
         {
           "id": 10,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Quand est qu'ne partie F de E est un sous-espace vectoriel de E ?",
           "title": "Proposition 2.13. Quand est qu'ne partie F de E est un sous-espace vectoriel de E?",
           "type": "proposition",
@@ -521,7 +523,7 @@
             "Janv 2023",
             "Sept 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition d'une partie génératrice de E.",
           "title": "Définition 2.14. Partie génératrice de E",
           "type": "definition",
@@ -534,7 +536,7 @@
           "exams": [
             "Janv 2023"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition d'une partie libre de E.",
           "title": "Définition 2.15. Partie libre de E",
           "type": "definition",
@@ -547,7 +549,7 @@
           "exams": [
             "Janv 2023"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition 2.17. Une base de E est une partie libre et génératrice de E",
           "title": "Définition 2.17. Une base de E est une partie libre et génératrice de E",
           "type": "definition",
@@ -560,7 +562,7 @@
           "exams": [
             "A relire"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Démontrez que si E admet une partie génératrice finie de taille p, alors toute partie libre de E est de taille au plus p.",
           "title": "Lemme 2.18.",
           "type": "lemme",
@@ -574,7 +576,7 @@
         {
           "id": 15,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Citez et démotréz le Théorème de l'Équipotence des bases.",
           "title": "Théorème 2.19 (Équipotence des bases)",
           "type": "theoreme",
@@ -588,7 +590,7 @@
         {
           "id": 16,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Citez et démotréz le Théorème de la Complétion des bases.",
           "title": "Théorème 2.20 (Complétion des bases)",
           "type": "theoreme",
@@ -602,7 +604,7 @@
         {
           "id": 17,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Corollaire 2.21. Supposons que E admette une partie génératrice finie.",
           "title": "Corollaire 2.21. Supposons que E admette une partie génératrice finie.",
           "type": "corollaire",
@@ -616,7 +618,7 @@
         {
           "id": 18,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donnez la définition de la dimension d'une partie généractrice.",
           "title": "Définition 2.22. Dimension d'une partie généractrice.",
           "type": "definition",
@@ -630,7 +632,7 @@
         {
           "id": 19,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 2.24",
           "title": "Proposition 2.24",
           "type": "proposition",
@@ -646,7 +648,7 @@
           "exams": [
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 2.25 (Décomposition dans une base)",
           "title": "Théorème 2.25 (Décomposition dans une base)",
           "type": "theoreme",
@@ -660,7 +662,7 @@
         {
           "id": 21,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Donnez la définition des composantes de x dans la base B.",
           "title": "Définition 2.26. Les composantes de x dans la base B",
           "type": "definition",
@@ -671,7 +673,7 @@
         {
           "id": 22,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition de la fonction ΨB.",
           "title": "Définition 2.27. Définition de la fonction ΨB",
           "type": "definition",
@@ -682,7 +684,7 @@
         {
           "id": 23,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Corollaire 2.28.",
           "title": "Corollaire 2.28.",
           "type": "corollaire",
@@ -693,7 +695,7 @@
         {
           "id": 24,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Corollaire 2.29.",
           "title": "Corollaire 2.29. !! Important",
           "type": "corollaire",
@@ -704,7 +706,7 @@
         {
           "id": 25,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 2.31 (Changement de basee)",
           "title": "Théorème 2.31 (Changement de basee)",
           "type": "theoreme",
@@ -721,7 +723,7 @@
         {
           "id": 26,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définition 2.32. Définition de la matrice de changement de base",
           "title": "Définition 2.32. Définition de la matrice de changement de base",
           "type": "definition",
@@ -732,7 +734,7 @@
         {
           "id": 27,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 2.33 Formule changement de base",
           "title": "Proposition 2.33 Formule changement de base",
           "type": "proposition",
@@ -746,7 +748,7 @@
         {
           "id": 28,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Corollaire 2.34. Inverse de la matrice de changement de base",
           "title": "Corollaire 2.34. Inverse de la matrice de changement de base",
           "type": "corollaire",
@@ -760,7 +762,7 @@
         {
           "id": 29,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 2.35 Propositions importantes pour la dépendance linéaire",
           "title": "Proposition 2.35 Propositions importantes pour la dépendance linéaire",
           "type": "proposition",
@@ -773,7 +775,7 @@
           "exams": [
             "Aout 2021"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 2.37. Le rang d'une matrice",
           "title": "Théorème 2.37. Le rang d'une matrice",
           "type": "theoreme",
@@ -790,7 +792,7 @@
             "Aout 2023",
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition 2.38. Définition de l'image et du noyeau de A.",
           "title": "Définition 2.38. Définition de l'image et du noyeau de A.",
           "type": "definition",
@@ -804,7 +806,7 @@
         {
           "id": 32,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 2.40.",
           "title": "Proposition 2.40.",
           "type": "proposition",
@@ -815,7 +817,7 @@
         {
           "id": 33,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 2.41. dim Ker(A) = c - rg(A)",
           "title": "Proposition 2.41. dim Ker(A) = c - rg(A)",
           "type": "proposition",
@@ -830,7 +832,7 @@
         {
           "id": 34,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 2.42. dim Im(A) = rg(A)",
           "title": "Proposition 2.42. dim Im(A) = rg(A)",
           "type": "proposition",
@@ -844,7 +846,7 @@
         {
           "id": 25,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Corollaire 2.43. dim Im(A) + dim Ker(A) = c",
           "title": "Corollaire 2.43 (Théorème du rang)",
           "type": "corollaire",
@@ -867,7 +869,7 @@
             "Aout 2023",
             "Janv 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Quand une matrice est-elle diagolanisable ?",
           "title": "3.1 Définition d'une matrice diagonalisable",
           "type": "definition",
@@ -881,7 +883,7 @@
             "Janv 2023",
             "Janv 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition de la valeur propre d'une matrice complexe A.",
           "title": "3.2 Définition de la valeur propre d'une matrice compléxe A ",
           "type": "definition",
@@ -895,7 +897,7 @@
             "Janv 2023",
             "Janv 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Donnez la définition d'un vecteur propre d'une matrice compléxe A.",
           "title": "3.3 Définition d'un vecteur propre d'une matrice compléxe A ",
           "type": "definition",
@@ -909,7 +911,7 @@
             "Janv 2023",
             "Sept 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définir la multiplicité géométrique d'une valeur propre.",
           "title": "3.4 Définition de la multiplicité géométrique d'une valeur propre de A ",
           "type": "definition",
@@ -920,7 +922,7 @@
         {
           "id": 4,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 3.6. Eλ(A) = Ker(A - λIm) et dim Eλ(A) = m - rg(A - λIm).",
           "title": "Proposition 3.6. Eλ(A) = Ker(A - λIm) et dim Eλ(A) = m - rg(A - λIm).",
           "type": "proposition",
@@ -934,7 +936,7 @@
         {
           "id": 5,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 3.7. Des vecteurs propres non nuls relatifs à des valeurs propres distinctes sont linéairement indépendants.",
           "title": "Proposition 3.7.",
           "type": "proposition",
@@ -951,7 +953,7 @@
           "exams": [
             "Janv 2023"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition 3.8. Le polynôme caractéristique de A",
           "title": "Définition 3.8. Le polynôme caractéristique de A",
           "type": "definition",
@@ -969,7 +971,7 @@
             "Janv 2023",
             "Sept 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Démontrer qu'un nombre complexe est valeur propre d'une matrice carrée complexe si et seulement s'il est zéro de son polynome caractéristique.",
           "title": "Proposition 3.11.",
           "type": "proposition",
@@ -983,7 +985,7 @@
         {
           "id": 8,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "La multiplicité algébrique d'un nombre λ ∈ C.",
           "title": "Définition 3.12 La multiplicité algébrique d'un nombre λ ∈ C",
           "type": "definition",
@@ -994,7 +996,7 @@
         {
           "id": 9,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 3.14.",
           "title": "Proposition 3.14.",
           "type": "proposition",
@@ -1008,7 +1010,7 @@
         {
           "id": 10,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 3.15. La multiplicité géométrique d'une valeur propre est inférieure à sa multiplicité algébrique",
           "title": "Proposition 3.15. Mult. géo. < Mult. algé.",
           "type": "proposition",
@@ -1026,7 +1028,7 @@
             "Janv 2022",
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition 3.16. La trace de A, notée tr(A)",
           "title": "Définition 3.16. La trace de A, notée tr(A)",
           "type": "definition",
@@ -1042,7 +1044,7 @@
             "Janv 2021",
             "Janv 2020"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 3.17. det(A) et tr(A)",
           "title": "Proposition 3.17. det(A) et tr(A)",
           "type": "proposition",
@@ -1056,7 +1058,7 @@
         {
           "id": 13,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définition 3.18.",
           "title": "Définition 3.18.",
           "type": "definition",
@@ -1070,7 +1072,7 @@
         {
           "id": 14,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 3.20 (Cayley-Hamilton)",
           "title": "Théorème 3.20 (Cayley-Hamilton)",
           "type": "theoreme",
@@ -1084,7 +1086,7 @@
         {
           "id": 14.4,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Définition 3.22. Le polynôme minimal de A ",
           "title": "Définition 3.22. Le polynôme minimal de A ",
           "type": "definition",
@@ -1095,7 +1097,7 @@
         {
           "id": 15,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Lemme 3.23",
           "title": "Lemme 3.23",
           "type": "lemme",
@@ -1110,7 +1112,7 @@
         {
           "id": 16,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 3.24.",
           "title": "Proposition 3.24.",
           "type": "proposition",
@@ -1124,7 +1126,7 @@
         {
           "id": 17,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Lemme 3.25",
           "title": "Lemme 3.25",
           "type": "lemme",
@@ -1142,7 +1144,7 @@
         {
           "id": 18,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Proposition 3.27. Les zéros du polynôme minimal de A sont les valeurs propres de A.",
           "title": "Proposition 3.27. Les zéros du polynôme minimal de A sont les valeurs propres de A.",
           "type": "proposition",
@@ -1160,7 +1162,7 @@
         {
           "id": 19,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Corollaire 3.29.",
           "title": "Corollaire 3.29.",
           "type": "corollaire",
@@ -1179,7 +1181,7 @@
           "exams": [
             "Janv 2023"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 3.31 (Critères de diagonalisation)",
           "title": "Théorème 3.31 (Critères de diagonalisation)",
           "type": "theoreme",
@@ -1194,7 +1196,7 @@
         {
           "id": 21,
           "exams": [],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Corollaire 3.32",
           "title": "Corollaire 3.32 !!! Avec exemple de diagonalisation",
           "type": "corollaire",
@@ -1216,7 +1218,7 @@
         {
           "id": 22,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 3.35.",
           "title": "Proposition 3.35.",
           "type": "proposition",
@@ -1227,7 +1229,7 @@
         {
           "id": 23,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 3.36.",
           "title": "Proposition 3.36.",
           "type": "proposition",
@@ -1238,7 +1240,7 @@
         {
           "id": 24,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 3.37.",
           "title": "Proposition 3.37.",
           "type": "proposition",
@@ -1261,7 +1263,7 @@
             "Janv 2020",
             "Sept 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définir la notion d'approximation polynomiale au voisinage d'un point d'une fonction réelle.",
           "title": "Définition 4.1.",
           "type": "definition",
@@ -1272,7 +1274,7 @@
         {
           "id": 2,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 4.2. Approximation polynomiale unique.",
           "title": "Proposition 4.2.",
           "type": "proposition",
@@ -1287,7 +1289,7 @@
         {
           "id": 3,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Théorème 4.3 (Approximation polynomiale) C'est une téchnique pour obtenir l'approximation polynomiale et pas la définition. !! À ne pas confondre !",
           "title": "Théorème 4.3 (Approximation polynomiale)",
           "type": "theoreme",
@@ -1302,7 +1304,7 @@
         {
           "id": 4,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Remarque 4.4",
           "title": "Remarque 4.4",
           "type": "remarque",
@@ -1313,7 +1315,7 @@
         {
           "id": 5,
           "exams": [],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Remarque 4.5",
           "title": "Remarque 4.5",
           "type": "remarque",
@@ -1334,7 +1336,7 @@
           "exams": [
             "Janv 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Enoncer le théorème du développement limité de Taylor. Comment celui-ci permet-il d'estimer le reste d'une approximation polynomiale ?",
           "title": "Théorème 4.7 (Développement limité de Taylor).",
           "type": "theoreme",
@@ -1350,7 +1352,7 @@
           "id": 34,
           "exams": [
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition 4.34. Une série géométrique",
           "title": "Définition 4.34. Une série géométrique",
           "type": "definition",
@@ -1362,7 +1364,7 @@
           "id": 35,
           "exams": [
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 4.35. La convergence d'une série géométrique",
           "title": "Théorème 4.35. La convergence d'une série géométrique",
           "type": "theoreme",
@@ -1374,7 +1376,7 @@
           "id": 36,
           "exams": [
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définition 4.36. Une série de Riemann",
           "title": "Définition 4.36. Une série de Riemann",
           "type": "definition",
@@ -1386,7 +1388,7 @@
           "id": 37,
           "exams": [
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Théorème 4.37. La convergence d'une série de Riemann",
           "title": "Théorème 4.37. La convergence d'une série de Riemann",
           "type": "theoreme",
@@ -1399,7 +1401,7 @@
           "exams": [
             "Sept 2019"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Enoncer le critère de comparaison des séries réelles.",
           "title": "Proposition 4.38. (Critère de comparaison).",
           "type": "proposition",
@@ -1411,7 +1413,7 @@
           "id": 39,
           "exams": [
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 4.39. (Résultat admis)",
           "title": "Proposition 4.39. (Résultat admis)",
           "type": "proposition",
@@ -1424,7 +1426,7 @@
           "exams": [
             "Janv 2021"
           ],
-          "hasPriority": true,
+          "isImportant": false,
           "question": "Définir la fonction exponentielle.",
           "title": "Définition 4.40. La fonction exponentielle",
           "type": "definition",
@@ -1436,7 +1438,7 @@
           "id": 41,
           "exams": [
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Théorème 4.41. [Pour l'info]",
           "title": "Théorème 4.41. [Pour l'info]",
           "type": "theoreme",
@@ -1448,7 +1450,7 @@
           "id": 42,
           "exams": [
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 4.42 (Propriétés de la fonction exponentielle). [Pour l'info]",
           "title": "Proposition 4.42 (Propriétés de la fonction exponentielle).",
           "type": "proposition",
@@ -1460,7 +1462,7 @@
           "id": 46,
           "exams": [
           ],
-          "hasPriority": false,
+          "isImportant": false,
           "question": "Proposition 4.46 (Propriétés de la fonction exponentielle). [Pour l'info]",
           "title": "Proposition 4.46 (Propriétés de la fonction exponentielle).",
           "type": "proposition",
