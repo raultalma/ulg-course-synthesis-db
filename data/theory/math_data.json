@@ -197,7 +197,7 @@
           "exams": [],
           "isImportant": false,
           "question": "Donner la Proposition 1.26. (Binome de Newton)",
-          "title": "Proposition 1.26. Binome de Newton",
+          "title": "Proposition 1.26. (Binome de Newton)",
           "type": "proposition",
           "explanationPath": [
             "assets/images/math/chap1/proposition-26.png"
