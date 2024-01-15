@@ -1365,7 +1365,7 @@
           "explanationPath": [
             "assets/images/math/chap4/theoreme-3.png"
           ],
-          "isProofAskedAtExam": true,
+          "isProofAskedAtExam": false,
           "demonstrationPath": [
             "assets/images/math/chap4/theoreme-3-demo-info.png",
             "assets/images/math/chap4/theoreme-3-demo.png"
