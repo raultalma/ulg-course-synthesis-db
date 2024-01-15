@@ -582,9 +582,9 @@
         {
           "id": 14,
           "exams": [
-            "A relire"
           ],
-          "isImportant": false,
+          "isImportant": true,
+          "isImportantMessage":"À relire",
           "question": "Démontrez que si E admet une partie génératrice finie de taille p, alors toute partie libre de E est de taille au plus p.",
           "title": "Lemme 2.18.",
           "type": "lemme",
