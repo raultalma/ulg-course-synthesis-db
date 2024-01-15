@@ -724,7 +724,7 @@
         {
           "id": 24,
           "exams": [],
-          "isImportant": false,
+          "isImportant": true,
           "question": "Corollaire 2.29.",
           "title": "Corollaire 2.29. !! Important",
           "type": "corollaire",
