@@ -1265,7 +1265,7 @@
           "isImportant": false,
           "question": "Corollaire 3.32",
           "infoMessage": "Il y a un exemple de diagonalisation",
-          "title": "Corollaire 3.32 !!! Avec exemple de diagonalisation",
+          "title": "Corollaire 3.32",
           "type": "corollaire",
           "explanationPath": [
             "assets/images/math/chap3/corollaire-32.png"
