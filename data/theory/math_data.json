@@ -831,6 +831,7 @@
           "isImportant": false,
           "question": "Définition 2.38. Définition de l'image et du noyeau de A.",
           "title": "Définition 2.38. Définition de l'image et du noyeau de A.",
+          "infoMessage": "Regarder l'exemple car ça peut servir à l'examen. Ca a déjà été demandé à un examen.",
           "type": "definition",
           "explanationPath": [
             "assets/images/math/chap2/def-38.png"
