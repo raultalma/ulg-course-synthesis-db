@@ -742,9 +742,8 @@
           "explanationPath": [
             "assets/images/math/chap2/theoreme-31.png"
           ],
-          "isProofAskedAtExam": false,
+          "isProofAskedAtExam": true,
           "demonstrationPath": [
-            "assets/images/math/shared/demo-not-asked.png",
             "assets/images/math/chap2/theoreme-31-demo.png"
           ],
           "exemplePath": [
