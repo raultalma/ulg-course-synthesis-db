@@ -308,7 +308,7 @@
           "exams": [
             "Aout 2021"
           ],
-          "isImportant": false,
+          "isImportant": true,
           "infoMessage": "Utile pour répondre à la seconde partie de la question théorique 4.",
           "question": "Donner le Corollaire 1.36.",
           "title": "Corollaire 1.36.",
