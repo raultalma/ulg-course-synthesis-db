@@ -1385,7 +1385,9 @@
         },
         {
           "id": 5,
-          "exams": ["Aout 2021"],
+          "exams": [
+            "Aout 2021"
+          ],
           "infoMessage": "Regarder les exemples pour voir les dérivées de cos et de sin (si besoin) ;)",
           "isImportant": true,
           "isImportantMessage": "Ceci combiné avec le théorème d'approximation permettent de répondre à la question théorique 3.",
@@ -1394,7 +1396,7 @@
           "type": "remarque",
           "explanationPath": [
             "assets/images/math/chap4/remarque-5-part1.png",
-            "assets/images/math/chap4/remarque-5-part2.png",  
+            "assets/images/math/chap4/remarque-5-part2.png",
             "assets/images/math/chap4/remarque-5-part3.png",
             "assets/images/math/chap4/remarque-5-part4.png",
             "assets/images/math/chap4/remarque-5-part5.png"
