@@ -581,10 +581,9 @@
         },
         {
           "id": 14,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": true,
-          "isImportantMessage":"À relire",
+          "isImportantMessage": "À relire",
           "question": "Démontrez que si E admet une partie génératrice finie de taille p, alors toute partie libre de E est de taille au plus p.",
           "title": "Lemme 2.18.",
           "type": "lemme",
@@ -1328,8 +1327,7 @@
             "Janv 2023",
             "Aout 2022",
             "Janv 2022",
-            "Janv 2020",
-            "Sept 2019"
+            "Janv 2020"
           ],
           "isImportant": true,
           "isImportantMessage": "C'est ce qu'il faut fournir si elle demande de définir l'approximation polynomiale !",
@@ -1358,7 +1356,9 @@
         },
         {
           "id": 3,
-          "exams": [],
+          "exams": [
+            "Sept 2019"
+          ],
           "isImportant": false,
           "question": "Théorème 4.3 (Approximation polynomiale) C'est une technique pour obtenir l'approximation polynomiale et pas la définition. !! À ne pas confondre !",
           "title": "Théorème 4.3 (Approximation polynomiale)",
@@ -1421,8 +1421,7 @@
         },
         {
           "id": 34,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Définition 4.34. Une série géométrique",
           "title": "Définition 4.34. Une série géométrique",
@@ -1433,8 +1432,7 @@
         },
         {
           "id": 35,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Théorème 4.35. La convergence d'une série géométrique",
           "title": "Théorème 4.35. La convergence d'une série géométrique",
@@ -1445,8 +1443,7 @@
         },
         {
           "id": 36,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Définition 4.36. Une série de Riemann",
           "title": "Définition 4.36. Une série de Riemann",
@@ -1457,8 +1454,7 @@
         },
         {
           "id": 37,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Théorème 4.37. La convergence d'une série de Riemann",
           "title": "Théorème 4.37. La convergence d'une série de Riemann",
@@ -1482,8 +1478,7 @@
         },
         {
           "id": 39,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Proposition 4.39. (Résultat admis)",
           "title": "Proposition 4.39. (Résultat admis)",
@@ -1507,8 +1502,7 @@
         },
         {
           "id": 41,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Théorème 4.41. [Pour l'info]",
           "title": "Théorème 4.41. [Pour l'info]",
@@ -1519,8 +1513,7 @@
         },
         {
           "id": 42,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Proposition 4.42 (Propriétés de la fonction exponentielle). [Pour l'info]",
           "title": "Proposition 4.42 (Propriétés de la fonction exponentielle).",
@@ -1531,8 +1524,7 @@
         },
         {
           "id": 46,
-          "exams": [
-          ],
+          "exams": [],
           "isImportant": false,
           "question": "Proposition 4.46 (Propriétés de la fonction exponentielle). [Pour l'info]",
           "title": "Proposition 4.46 (Propriétés de la fonction exponentielle).",
