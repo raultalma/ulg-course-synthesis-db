@@ -376,7 +376,7 @@
           "exams": [],
           "isImportant": false,
           "question": "Donner la définition d'un espace vectoriel sur K.",
-          "title": "2.1 Définition polynôme à coefficients dans K",
+          "title": "2.1 Définition d'un espace vectoriel sur K.",
           "type": "definition",
           "explanationPath": [
             "assets/images/math/chap2/def-1.png"
