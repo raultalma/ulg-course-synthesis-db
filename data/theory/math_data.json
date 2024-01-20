@@ -646,8 +646,8 @@
           "id": 18,
           "exams": [],
           "isImportant": false,
-          "question": "Donnez la définition de la dimension d'une partie généractrice.",
-          "title": "Définition 2.22. Dimension d'une partie généractrice.",
+          "question": "Donnez la définition de la dimension de E.",
+          "title": "Définition 2.22. Dimension de E.",
           "type": "definition",
           "explanationPath": [
             "assets/images/math/chap2/def-22.png"
