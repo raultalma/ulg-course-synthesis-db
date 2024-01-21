@@ -1248,7 +1248,7 @@
           "exams": [
             "Janv 2023"
           ],
-          "isImportant": false,
+          "isImportant": true,
           "question": "Théorème 3.31 (Critères de diagonalisation)",
           "title": "Théorème 3.31 (Critères de diagonalisation)",
           "type": "theoreme",
