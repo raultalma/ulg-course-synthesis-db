@@ -1041,8 +1041,8 @@
           "id": 9,
           "exams": ["Janv 2022"],
           "isImportant": false,
-          "question": "Proposition 3.14.",
-          "title": "Proposition 3.14.",
+          "question": "Proposition 3.14. Matrices semblables",
+          "title": "Proposition 3.14. Matrices semblables",
           "type": "proposition",
           "explanationPath": [
             "assets/images/math/chap3/proposition-14.png"
