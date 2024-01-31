@@ -133,6 +133,7 @@
         {
           "id": 9,
           "exams": [
+            "Janv 2024",
             "Aout 2023",
             "Janv 2019"
           ],
@@ -422,6 +423,7 @@
         {
           "id": 3,
           "exams": [
+            "Janv 2024",
             "Aout 2023",
             "Aout 2021",
             "Sept 2019",
@@ -826,6 +828,7 @@
         {
           "id": 31,
           "exams": [
+            "Janv 2024",
             "Aout 2023",
             "Janv 2020"
           ],
@@ -1246,6 +1249,7 @@
         {
           "id": 20,
           "exams": [
+            "Janv 2024",
             "Janv 2023"
           ],
           "isImportant": true,
@@ -1327,6 +1331,7 @@
         {
           "id": 1,
           "exams": [
+            "Janv 2024",
             "Janv 2023",
             "Aout 2022",
             "Janv 2022",
